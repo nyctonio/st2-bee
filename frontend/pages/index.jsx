@@ -105,8 +105,6 @@ const Home = () => {
   return (
     <div className="text-4xl font-sans bg-black flex flex-col items-center px-40 justify-center pt-20">
       <h3 className="text-[200px] text-left text-white font-bold mb-6 ml-3" > ST2 - BEE project</h3 >
-
-
       <div className='w-full mt-20'>
         <li className="">
           <div className="md:flex flex-start">
